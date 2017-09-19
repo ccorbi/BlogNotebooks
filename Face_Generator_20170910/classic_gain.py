@@ -132,8 +132,8 @@ def train(epochs, BATCH_SIZE, lr, reload_weights, data_folder='./train'):
     # This is the feedback between models
     discriminator_on_generator = \
         generator_containing_discriminator(generator, discriminator)
-    d_optim = SGD(lr=lr, momentum=0.9, nesterov=True)
-    g_optim = SGD(lr=lr, momentum=0.9, nesterov=True)
+    d_optim = SGD(lr=lr, momentum=0.95, nesterov=True)
+    g_optim = SGD(lr=lr, momentum=0.95, nesterov=True)
 
     generator.compile(loss='binary_crossentropy', optimizer="Adam")
     discriminator_on_generator.compile(
