@@ -20,9 +20,9 @@ Basacally my own Are 51, , here I post my first attempts with new toys and datas
 
  Here you will find all the code and jupyter notebooks I used for the entries of [The Data Explorer](http://thedataexplorer.wordpress.com).
 
-* Face Generator (2017/09/10). Using GANs to create a photorealistinc Face generator. [Training Video](https://youtu.be/4zIvMUd79lk)  (Playing with Keras)
+* [Face Generator](https://thedataexplorer.wordpress.com/2017/09/20/do-computers-have-imagination/) (2017/09/10). Using GANs to create a photorealistinc Face generator. [Training Video](https://youtu.be/4zIvMUd79lk)  (Playing with Keras)
 
-* Cooking Word2Vec (2017/03/19). Playing eith distributed word vectors (word2vec) for clustering cooking reciptes. next, build a predictor using the vectors as features. (playing with Gensim)
+* [Cooking Word2Vec](https://thedataexplorer.wordpress.com/2017/03/20/cooking-receipts-i/) (2017/03/19). Playing eith distributed word vectors (word2vec) for clustering cooking reciptes. next, build a predictor using the vectors as features. (playing with Gensim)
 
  
 
