@@ -9,11 +9,15 @@ Basacally my own Are 51, , here I post my first attempts with new toys and datas
 
 * 20171213_Interview_prediction. Predict candidates attendancy to interviews, Tried LogisticRegression, RandomForest and Bayeasin models, I did not get a mindblowing accuracity so far. **ToDo** Work a bit more in the feature enginiering, try some other approach to optimze model.
 
+* 20180120_VAE_cancer_clusters. Better clustering of cancer patients using Variational Autoencoders. (Pytorch) **ToDo** Improve validation.
+
 * 20180213_Items_Precies_predict. Prices Predictions. a example of a regression model, trying to predict prices using Keras. **ToDo** Work a bit more on features, try other models.
 
 * 20180308_Monkeys_class. Identifying Monkeys. Learning pythorch. Build a classification model for monkey images. (Playing with pyTorch) **ToDo** try transfering learning, resnet50?
 
 * 20180520_TPOT_with_Titanic. Testing TPOT, a automated Machine learning tool that optimizes machine learning pipleines using genetic programming. Using Kaggle competition on prediction of survival for passanger of the Titanic as a dummy example. **ToDo** I could work more on features, however this is pretty much done, I like TPOT!
+
+
 
 ## The Data Explorer Code
 
