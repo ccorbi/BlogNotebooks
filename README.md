@@ -1,6 +1,6 @@
 # PlayGround
 
-Basically my own Are 51. Here I post my first attempts with new toys and datasets. Experiments, some of them embarrassing, or incomplete, but all of them a valuable learning experiences.
+Basically my own Are 51. Here I post my first attempts with new methods and datasets. Some these experiments are embarrassing incomplete, baby steps, but overa all a valuable learning experience.
 
 ## On Progress
 
