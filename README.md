@@ -18,6 +18,8 @@ Basically my own Are 51. Here I post my first attempts with new methods and data
 * 20180520_TPOT_with_Titanic. Testing TPOT, an automated Machine learning tool that optimizes machine learning pipelines using genetic programming. Using Kaggle competition on prediction of survival for passengers of the Titanic as a dummy example. **ToDo** I could work more on features, however, this is pretty much done, I like TPOT!
 
 
+* 20180725_Smartlibrary_generator. Generator of peptides enforcing a concreate secondary structre using RNN (pytorch)
+
 ## The Data Explorer Code
 
 
