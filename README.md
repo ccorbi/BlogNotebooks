@@ -1,6 +1,6 @@
 # PlayGround
 
-Basically my own Are 51. Here I post my first attempts with new methods and datasets. Some these experiments are embarrassing incomplete, baby steps, but overa all a valuable learning experience.
+Basically my own Area51. Here I post my first attempts with new methods and datasets. Some of these experiments are embarrassing incomplete, baby steps, but an overall valuable learning experience.
 
 ## On Progress
 
