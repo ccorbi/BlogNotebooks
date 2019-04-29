@@ -8,7 +8,7 @@ Basically my own Are 51. Here I post my first attempts with new methods and data
 
 * 20171213_Interview_prediction. Predict candidates attendance to interviews, Tried LogisticRegression, RandomForest, and Bayesian models, I did not get a mindblowing accuracy so far. **ToDo** Work a bit more in the feature engineering, try some other approach to optimize model.
 
-* 20180213_Items_Precies_predict. Prices Predictions. An example of a regression model, trying to predict prices using Keras. **ToDo** Work a bit more on features, try other models.
+* 20180213_Items_Prices_predict. Prices Predictions. An example of a regression model, trying to predict prices using Keras. **ToDo** Work a bit more on features, try other models.
 
 * 20180308_Monkeys_class. Identifying Monkeys. Learning pythorch. Build a classification model for monkey images. (Playing with pyTorch) **ToDo** try transferring learning, resnet50?
 
